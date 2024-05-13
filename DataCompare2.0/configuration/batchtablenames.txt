@@ -1,3 +1,0 @@
-help_keyword,help_relation
-procs_priv,proxies_priv
-innodb_table_stats,innodb_index_stats

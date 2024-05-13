@@ -1,3 +1,0 @@
-D:\pythonProject\DataCompare\mapping1.csv,D:\pythonProject\DataCompare\mapping1.xls
-D:\pythonProject\DataCompare\mapping1.xls,D:\pythonProject\DataCompare\mapping1.txt
-D:\pythonProject\DataCompare\mapping1.xls,D:\pythonProject\DataCompare\mapping2.xls
